@@ -3,7 +3,7 @@ import os
 import csv
 
 # Capture path in varible
-budget_csv = os.path.join('..','PyBank','Resources','budget_data.csv')
+budget_csv = os.path.join('UCI Bootcamp 2023','Module 3','Resources','PyBank','Resources','budget_data.csv')
 
 # Initialize variables
 total_months = 0
